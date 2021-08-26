@@ -34,5 +34,11 @@
             <td><a href="https://sticky-notes-app-sd.herokuapp.com/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="" alt="html" height=130></td> 
         </tr>
+        <tr>
+            <td>RandomUserApp</td>
+            <td><a href="https://github.com/sofiadurkan1/random_user_app" target="_blank">Repo details</a></td>
+            <td><a href="https://random-user-app-sofia-durkan.herokuapp.com/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="" alt="html" height=130></td> 
+        </tr>
 </tbody>
 </table>
