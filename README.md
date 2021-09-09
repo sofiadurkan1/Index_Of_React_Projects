@@ -47,9 +47,15 @@
             <td><img style="width:500px;" src="" alt="html" height=130></td> 
         </tr>
          <tr>
-            <td>UserInfo</td>
+            <td>UserInfoCard</td>
             <td><a href="https://github.com/sofiadurkan1/user-info-card_react" target="_blank">Repo details</a></td>
             <td><a href="https://user-info-card-sofia-durkan.herokuapp.com/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="" alt="html" height=130></td> 
+        </tr>
+         <tr>
+            <td>NetflixCloneApp</td>
+            <td><a href="https://github.com/sofiadurkan1/netflix_clone_react" target="_blank">Repo details</a></td>
+            <td><a href="https://netflix-clone-sofia-durkan.herokuapp.com/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="" alt="html" height=130></td> 
         </tr>
 </tbody>
